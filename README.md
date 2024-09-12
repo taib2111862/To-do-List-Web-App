@@ -1,8 +1,8 @@
 # To-do-List-Web-App
 
-**Can Tho University**
-**College of Information Technology and Communication**
-**CT313H - Web Technologies and Services (S1, 2024-2025)**
+**Can Tho University** <br />
+**College of Information Technology and Communication** <br />
+**CT313H - Web Technologies and Services (S1, 2024-2025)** <br />
 
 This repository contains the source code of a group project to make a To-do List web application.
 
